@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaniaYousfi
 - 🧑🏻‍🔬 I'm a chemical engineering student
-- 🌱 I’m coding and Tech enthusiast
-- 💞️ I’m looking to learn how to code
+- 👩🏻‍💻 I’m a coding and Tech enthusiast
+- 💞️ Currently focused on learning front-end development
 - 📫 yousfi.rania97@gmail.com
 
 <!---
